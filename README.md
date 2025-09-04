@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on career counselling project<br>🌱 I’m currently learning full stack web development<br>
+🔭 I’m currently working on Campus Hire <br>🌱 I’m currently learning full stack web development<br>
 
 
 ## 🌐 Socials:
